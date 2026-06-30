@@ -9,7 +9,7 @@ docker-compose.yml)
 
 Run AFTER create_hbase_schema.sh has been executed in the HBase shell.
 
-    python3 load_to_hbase.py
+    python load_to_hbase.py
 """
 
 import json

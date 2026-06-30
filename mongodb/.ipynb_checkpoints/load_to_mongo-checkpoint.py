@@ -15,9 +15,9 @@ Schema design notes (see report for full justification):
 
 Run:
     pip install pymongo --break-system-packages
-    python3 load_to_mongo.py
+    python load_to_mongo.py
 """
-
+ 
 import json
 import glob
 from collections import defaultdict
