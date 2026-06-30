@@ -1,7 +1,4 @@
 # dataset_generator.py
-# Scaled-down version of the AUCA-provided generator.
-# Same schema and relationships as the original; smaller volumes so the
-# full pipeline (Mongo + HBase + Spark) can run on a laptop in minutes.
 
 import json
 import random
